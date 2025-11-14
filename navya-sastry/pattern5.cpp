@@ -2,8 +2,6 @@
 using namespace std;
 
 int main() {
-	// your code goes here
-	
 	int i,n;
 	char j;
 	cin>>n;
