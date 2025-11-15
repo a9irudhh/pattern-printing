@@ -1,19 +1,13 @@
- /*pattern printing 8
+ /*
  
-
-8. Diamond Pattern
+4. Hollow Diamond in a Square
 Input: 5 Output:
 
-    *
-   ***
-  *****
- *******
-*********
- *******
-  *****
-   ***
-    *
-
+*****
+** **
+*   *
+** **
+*****
 
 
 */
@@ -67,4 +61,5 @@ int main()
   
    
     return 0;
+
 }
